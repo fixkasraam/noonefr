@@ -1,6 +1,6 @@
 export const socials = [
   {
-    url: "https://github.com/noonefr69",
+    url: "https://github.com/fixkasraam",
     label: "github",
     icon: "/socials/github.svg",
   },
