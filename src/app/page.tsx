@@ -17,7 +17,7 @@ export default function Home() {
           <EventsContainer />
         </div>
         <div className="col-span-9 md:col-span-9">
-          {/*<GitHubContainer />*/}
+          <GitHubContainer />
         </div>
       </section>
 
